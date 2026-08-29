@@ -4,6 +4,7 @@ html {
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-color: #24272b;
     color: black;
     text-align: center;
     overflow: hidden;
@@ -11,9 +12,9 @@ html {
 }
 
 h1 {
-    text-shadow: 0.3em 0.3em 0.5em black;
+    text-shadow: 0.3em 0.3em 0.5em white;
     font-size: 25px;
-    color: white:
+    color: black:
 }
 
 a {
