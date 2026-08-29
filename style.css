@@ -5,7 +5,7 @@ html {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-color: #24272b;
-    color: black;
+    color: red;
     text-align: center;
     overflow: hidden;
     text-color: white;
@@ -44,8 +44,23 @@ a {
 #mods {
     display: none;
 }
-
-
+    
+.btn {
+    background-color: #003263;
+    color: white;
+    width: 227px;
+    height: 46px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-style: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 4px;
 }
 
 .btn:hover {
