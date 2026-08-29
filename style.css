@@ -6,7 +6,8 @@ html {
     background-repeat: no-repeat;
     background-color: #24272b;
     color: black;
-    text-align: center;
+    text-align: center
+    text-color: black 
     overflow: hidden;
 }
 
